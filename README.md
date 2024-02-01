@@ -1,1 +1,1 @@
-# Yolov8 custom training for hand detection
+Yolov8 custom training for hand detection
