@@ -1,6 +1,6 @@
-train: /Users/taylor/Desktop/yolov8-hand/yolov8-hand/data/train/images
-val: /Users/taylor/Desktop/yolov8-hand/yolov8-hand/data/valid/images
-test: /Users/taylor/Desktop/yolov8-hand/yolov8-hand/data/test/images
+train: /Users/taylor/Desktop/yolov8-hand/data/train/images
+val: /Users/taylor/Desktop/yolov8-hand/data/valid/images
+test: /Users/taylor/Desktop/yolov8-hand/data/test/images
 
 nc: 4
 names: ['myleft', 'myright', 'yourleft', 'yourright']
